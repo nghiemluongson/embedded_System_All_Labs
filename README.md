@@ -1,2 +1,2 @@
-# embedded_System_All_Labs
+# Embedded_System_CO3054_All_Labs
 Labs in semester 231
