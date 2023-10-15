@@ -6,23 +6,17 @@
 * Preparation:
    * IDE and Extensions (We use VSCode and Espressif IDF, You can reference from [here](https://github.com/nghiemluongson/embedded_System_All_Labs))
    * ESP32 Wifi Bluetooth UNO R3 (You also use another version of ESP32, this device that you can buy [here](https://www.thegioiic.com/carts?gidzl=HmRp4B5YmJX64VGJk7h9E4uKzH6dVCKwLKJtGQKen6e34Vb1_7JBFWjBhXhuSyan3agf6JV7NGGTicF1Fm)) <br>
-     ![Lab1](... loading image ...)
-* Create a Hello World Example:
-   * You press "F1", enter “esp examples”:
-      ![Lab1](... loading image ...)
-   * In the "get-started" section, select "hello_world" => "Create a project using the hello_world example" and then choose the project save path:
-      ![Lab1](... loading image ...)
+     ![Lab1](https://github.com/nghiemluongson/embedded_System_All_Labs/blob/d2adfe367b459d4c60d84c6d9baeecdbe11bceab/Images/Lab%201/5.jpg)
 * Flash and Build "Hello World" Project:
    * First, make sure the device is fully connected and the correct COM port is selected.
-   * You can use GUI of VS Code with the following steps:
+   * You can use ESP-IDF Powershell:
+     * Link to your file code, open it with terminal.
      * Build:<br>
-       ![Lab1](... loading image ...)
+       ![Lab1](https://github.com/nghiemluongson/embedded_System_All_Labs/blob/d2adfe367b459d4c60d84c6d9baeecdbe11bceab/Images/Lab%201/6.jpg)
      * Flash:<br>
-       ![Lab1](... loading image ...)
+       ![Lab1](https://github.com/nghiemluongson/embedded_System_All_Labs/blob/d2adfe367b459d4c60d84c6d9baeecdbe11bceab/Images/Lab%201/7.jpg)
      * Monitor device to view the result in the terminal:<br>
-       ![Lab1](... loading image ...)
-    * Otherway, You can use a command terminal to execute the program include build, flash and monitor (Note: In which <COM> represents the port connected to the ESP32 on the device.): <br>
-     ### `idf.py build ; idf.py -p <COM> flash ; idf.py -p <COM> monitor`
+       ![Lab1](https://github.com/nghiemluongson/embedded_System_All_Labs/blob/d2adfe367b459d4c60d84c6d9baeecdbe11bceab/Images/Lab%201/8.jpg)
     
 * You also can reference the README.md from the development team below:<br>
 | Supported Targets | ESP32 | ESP32-C2 | ESP32-C3 | ESP32-C6 | ESP32-H2 | ESP32-S2 | ESP32-S3 |
