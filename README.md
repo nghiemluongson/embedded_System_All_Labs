@@ -17,6 +17,7 @@ A brief description of what this project does and who it's for
     * Choose Express and setting according to the following figure.
     ![ESP32-IDF](https://github.com/nghiemluongson/embedded_System_All_Labs/blob/091965c3e0d4f00d890ad072202ab2ff47b9ad20/Images/Lab%201/4.jpg)
     * Finally, Choose Install and waiting for complete installation.
+    * Or you can use ESP-IDF Powershell with instructions [here](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/get-started/windows-setup.html)
 
 
 
