@@ -1,8 +1,8 @@
 # Embedded System Lab 01: Introduction to ESP32 and ESP-IDF
 * Description:
-   * Getting acquainted with the ESP32 board.
+   * Getting started with the ESP32 board.
    * Familiarizing yourself with ESP-IDF.
-   * Successfully completing the final exercise: building and flashing the "Hello world!" greeting to the ESP32 board.
+   * Build and flash the "Hello world!" example to the ESP32 development board successfully.
 * Preparation:
    * IDE and Extensions (We use VSCode and Espressif IDF, You can reference from [here](https://github.com/nghiemluongson/embedded_System_All_Labs))
    * ESP32 Wifi Bluetooth UNO R3 (You also use another version of ESP32, this device that you can buy [here](https://www.thegioiic.com/carts?gidzl=HmRp4B5YmJX64VGJk7h9E4uKzH6dVCKwLKJtGQKen6e34Vb1_7JBFWjBhXhuSyan3agf6JV7NGGTicF1Fm)) <br>
