@@ -13,7 +13,8 @@ is pressed. <br>
    * ESP32 Wifi Bluetooth UNO R3 (You also use another version of ESP32, this device that you can buy [here](https://www.thegioiic.com/carts?gidzl=HmRp4B5YmJX64VGJk7h9E4uKzH6dVCKwLKJtGQKen6e34Vb1_7JBFWjBhXhuSyan3agf6JV7NGGTicF1Fm)) <br>
      ![Lab2](https://github.com/nghiemluongson/embedded_System_All_Labs/blob/d2adfe367b459d4c60d84c6d9baeecdbe11bceab/Images/Lab%201/5.jpg)
 *  Real-life images:
-     ![Lab2](https://github.com/nghiemluongson/embedded_System_All_Labs/blob/20a244b72a6e158717051f9161d79201eb9f97a6/Images/Lab%202/1.jpg)
+
+    - ![Lab2](https://github.com/nghiemluongson/embedded_System_All_Labs/blob/20a244b72a6e158717051f9161d79201eb9f97a6/Images/Lab%202/1.jpg)
 * You also can reference the README.md from the development team below:<br>
 | Supported Targets | ESP32 | ESP32-C2 | ESP32-C3 | ESP32-C6 | ESP32-H2 | ESP32-S2 | ESP32-S3 |
 | ----------------- | ----- | -------- | -------- | -------- | -------- | -------- | -------- |
