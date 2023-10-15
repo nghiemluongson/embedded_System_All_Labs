@@ -1,4 +1,4 @@
-/* * Data converted from C:/Users/GIGABYTE/Desktop/embedded_System_231/All_Labs_Final/Lab_01/build/esp-idf/mbedtls/x509_crt_bundle
+/* * Data converted from D:/SEMESTER7/EMBEDDED/LAB_01_02/embedded_System_All_Labs/Lab_01/build/esp-idf/mbedtls/x509_crt_bundle
  */
 .data
 .section .rodata.embedded

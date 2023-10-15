@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/GIGABYTE/Desktop/embedded_System_231/esp/Espressif/frameworks/esp-idf-v5.1.1/components/protocomm
+# Install script for directory: D:/SEMESTER7/EMBEDDED/esp/esp-idf/Espressif/frameworks/esp-idf-v5.1.1/components/protocomm
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -34,6 +34,6 @@ endif()
 
 # Set default install directory permissions.
 if(NOT DEFINED CMAKE_OBJDUMP)
-  set(CMAKE_OBJDUMP "C:/Users/GIGABYTE/Desktop/embedded_System_231/esp/Espressif/tools/xtensa-esp32-elf/esp-12.2.0_20230208/xtensa-esp32-elf/bin/xtensa-esp32-elf-objdump.exe")
+  set(CMAKE_OBJDUMP "D:/SEMESTER7/EMBEDDED/esp/esp-idf/Espressif/tools/xtensa-esp32-elf/esp-12.2.0_20230208/xtensa-esp32-elf/bin/xtensa-esp32-elf-objdump.exe")
 endif()
 

@@ -1,13 +1,13 @@
 # Target labels
  bootloader
 # Source files and their labels
-C:/Users/GIGABYTE/Desktop/embedded_System_231/All_Labs_Final/Lab_01/build/CMakeFiles/bootloader
-C:/Users/GIGABYTE/Desktop/embedded_System_231/All_Labs_Final/Lab_01/build/CMakeFiles/bootloader.rule
-C:/Users/GIGABYTE/Desktop/embedded_System_231/All_Labs_Final/Lab_01/build/CMakeFiles/bootloader-complete.rule
-C:/Users/GIGABYTE/Desktop/embedded_System_231/All_Labs_Final/Lab_01/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
-C:/Users/GIGABYTE/Desktop/embedded_System_231/All_Labs_Final/Lab_01/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
-C:/Users/GIGABYTE/Desktop/embedded_System_231/All_Labs_Final/Lab_01/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
-C:/Users/GIGABYTE/Desktop/embedded_System_231/All_Labs_Final/Lab_01/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
-C:/Users/GIGABYTE/Desktop/embedded_System_231/All_Labs_Final/Lab_01/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
-C:/Users/GIGABYTE/Desktop/embedded_System_231/All_Labs_Final/Lab_01/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
-C:/Users/GIGABYTE/Desktop/embedded_System_231/All_Labs_Final/Lab_01/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
+D:/SEMESTER7/EMBEDDED/LAB_01_02/embedded_System_All_Labs/Lab_01/build/CMakeFiles/bootloader
+D:/SEMESTER7/EMBEDDED/LAB_01_02/embedded_System_All_Labs/Lab_01/build/CMakeFiles/bootloader.rule
+D:/SEMESTER7/EMBEDDED/LAB_01_02/embedded_System_All_Labs/Lab_01/build/CMakeFiles/bootloader-complete.rule
+D:/SEMESTER7/EMBEDDED/LAB_01_02/embedded_System_All_Labs/Lab_01/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+D:/SEMESTER7/EMBEDDED/LAB_01_02/embedded_System_All_Labs/Lab_01/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+D:/SEMESTER7/EMBEDDED/LAB_01_02/embedded_System_All_Labs/Lab_01/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+D:/SEMESTER7/EMBEDDED/LAB_01_02/embedded_System_All_Labs/Lab_01/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+D:/SEMESTER7/EMBEDDED/LAB_01_02/embedded_System_All_Labs/Lab_01/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+D:/SEMESTER7/EMBEDDED/LAB_01_02/embedded_System_All_Labs/Lab_01/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+D:/SEMESTER7/EMBEDDED/LAB_01_02/embedded_System_All_Labs/Lab_01/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule

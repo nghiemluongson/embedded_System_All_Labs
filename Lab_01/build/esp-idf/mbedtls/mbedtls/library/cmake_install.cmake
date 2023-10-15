@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/GIGABYTE/Desktop/embedded_System_231/esp/Espressif/frameworks/esp-idf-v5.1.1/components/mbedtls/mbedtls/library
+# Install script for directory: D:/SEMESTER7/EMBEDDED/esp/esp-idf/Espressif/frameworks/esp-idf-v5.1.1/components/mbedtls/mbedtls/library
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -34,18 +34,18 @@ endif()
 
 # Set default install directory permissions.
 if(NOT DEFINED CMAKE_OBJDUMP)
-  set(CMAKE_OBJDUMP "C:/Users/GIGABYTE/Desktop/embedded_System_231/esp/Espressif/tools/xtensa-esp32-elf/esp-12.2.0_20230208/xtensa-esp32-elf/bin/xtensa-esp32-elf-objdump.exe")
+  set(CMAKE_OBJDUMP "D:/SEMESTER7/EMBEDDED/esp/esp-idf/Espressif/tools/xtensa-esp32-elf/esp-12.2.0_20230208/xtensa-esp32-elf/bin/xtensa-esp32-elf-objdump.exe")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib" TYPE STATIC_LIBRARY FILES "C:/Users/GIGABYTE/Desktop/embedded_System_231/All_Labs_Final/Lab_01/build/esp-idf/mbedtls/mbedtls/library/libmbedcrypto.a")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib" TYPE STATIC_LIBRARY FILES "D:/SEMESTER7/EMBEDDED/LAB_01_02/embedded_System_All_Labs/Lab_01/build/esp-idf/mbedtls/mbedtls/library/libmbedcrypto.a")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib" TYPE STATIC_LIBRARY FILES "C:/Users/GIGABYTE/Desktop/embedded_System_231/All_Labs_Final/Lab_01/build/esp-idf/mbedtls/mbedtls/library/libmbedx509.a")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib" TYPE STATIC_LIBRARY FILES "D:/SEMESTER7/EMBEDDED/LAB_01_02/embedded_System_All_Labs/Lab_01/build/esp-idf/mbedtls/mbedtls/library/libmbedx509.a")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib" TYPE STATIC_LIBRARY FILES "C:/Users/GIGABYTE/Desktop/embedded_System_231/All_Labs_Final/Lab_01/build/esp-idf/mbedtls/mbedtls/library/libmbedtls.a")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib" TYPE STATIC_LIBRARY FILES "D:/SEMESTER7/EMBEDDED/LAB_01_02/embedded_System_All_Labs/Lab_01/build/esp-idf/mbedtls/mbedtls/library/libmbedtls.a")
 endif()
 
