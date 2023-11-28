@@ -1,0 +1,81 @@
+-- IDF_TARGET is not set, guessed 'esp32' from sdkconfig 'D:/SEMESTER7/EMBEDDED/esp/Lab_04/Lab4/sdkconfig'
+-- Found Git: D:/SEMESTER7/EMBEDDED/esp/esp-idf/Espressif/tools/idf-git/2.39.2/cmd/git.exe (found version "2.39.2.windows.1") 
+-- ccache will be used for faster recompilation
+-- The C compiler identification is GNU 12.2.0
+-- The CXX compiler identification is GNU 12.2.0
+-- The ASM compiler identification is GNU
+-- Found assembler: D:/SEMESTER7/EMBEDDED/esp/esp-idf/Espressif/tools/xtensa-esp32-elf/esp-12.2.0_20230208/xtensa-esp32-elf/bin/xtensa-esp32-elf-gcc.exe
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: D:/SEMESTER7/EMBEDDED/esp/esp-idf/Espressif/tools/xtensa-esp32-elf/esp-12.2.0_20230208/xtensa-esp32-elf/bin/xtensa-esp32-elf-gcc.exe - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: D:/SEMESTER7/EMBEDDED/esp/esp-idf/Espressif/tools/xtensa-esp32-elf/esp-12.2.0_20230208/xtensa-esp32-elf/bin/xtensa-esp32-elf-g++.exe - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- git rev-parse returned 'fatal: not a git repository (or any of the parent directories): .git'
+-- Could not use 'git describe' to determine PROJECT_VER.
+-- Building ESP-IDF components for target esp32
+-- Project sdkconfig file D:/SEMESTER7/EMBEDDED/esp/Lab_04/Lab4/sdkconfig
+D:/SEMESTER7/EMBEDDED/esp/Lab_04/Lab4/sdkconfig:195 CONFIG_APP_BUILD_TYPE_ELF_RAM was replaced with CONFIG_APP_BUILD_TYPE_RAM
+D:/SEMESTER7/EMBEDDED/esp/Lab_04/Lab4/sdkconfig:811 CONFIG_ESP32_WIFI_ENABLED was replaced with CONFIG_ESP_WIFI_ENABLED
+D:/SEMESTER7/EMBEDDED/esp/Lab_04/Lab4/sdkconfig:812 CONFIG_ESP32_WIFI_STATIC_RX_BUFFER_NUM was replaced with CONFIG_ESP_WIFI_STATIC_RX_BUFFER_NUM
+D:/SEMESTER7/EMBEDDED/esp/Lab_04/Lab4/sdkconfig:813 CONFIG_ESP32_WIFI_DYNAMIC_RX_BUFFER_NUM was replaced with CONFIG_ESP_WIFI_DYNAMIC_RX_BUFFER_NUM
+D:/SEMESTER7/EMBEDDED/esp/Lab_04/Lab4/sdkconfig:814 CONFIG_ESP32_WIFI_STATIC_TX_BUFFER was replaced with CONFIG_ESP_WIFI_STATIC_TX_BUFFER
+D:/SEMESTER7/EMBEDDED/esp/Lab_04/Lab4/sdkconfig:815 CONFIG_ESP32_WIFI_DYNAMIC_TX_BUFFER was replaced with CONFIG_ESP_WIFI_DYNAMIC_TX_BUFFER
+D:/SEMESTER7/EMBEDDED/esp/Lab_04/Lab4/sdkconfig:816 CONFIG_ESP32_WIFI_TX_BUFFER_TYPE was replaced with CONFIG_ESP_WIFI_TX_BUFFER_TYPE
+D:/SEMESTER7/EMBEDDED/esp/Lab_04/Lab4/sdkconfig:817 CONFIG_ESP32_WIFI_DYNAMIC_TX_BUFFER_NUM was replaced with CONFIG_ESP_WIFI_DYNAMIC_TX_BUFFER_NUM
+D:/SEMESTER7/EMBEDDED/esp/Lab_04/Lab4/sdkconfig:818 CONFIG_ESP32_WIFI_CSI_ENABLED was replaced with CONFIG_ESP_WIFI_CSI_ENABLED
+D:/SEMESTER7/EMBEDDED/esp/Lab_04/Lab4/sdkconfig:819 CONFIG_ESP32_WIFI_AMPDU_TX_ENABLED was replaced with CONFIG_ESP_WIFI_AMPDU_TX_ENABLED
+D:/SEMESTER7/EMBEDDED/esp/Lab_04/Lab4/sdkconfig:820 CONFIG_ESP32_WIFI_TX_BA_WIN was replaced with CONFIG_ESP_WIFI_TX_BA_WIN
+D:/SEMESTER7/EMBEDDED/esp/Lab_04/Lab4/sdkconfig:821 CONFIG_ESP32_WIFI_AMPDU_RX_ENABLED was replaced with CONFIG_ESP_WIFI_AMPDU_RX_ENABLED
+D:/SEMESTER7/EMBEDDED/esp/Lab_04/Lab4/sdkconfig:822 CONFIG_ESP32_WIFI_RX_BA_WIN was replaced with CONFIG_ESP_WIFI_RX_BA_WIN
+D:/SEMESTER7/EMBEDDED/esp/Lab_04/Lab4/sdkconfig:823 CONFIG_ESP32_WIFI_NVS_ENABLED was replaced with CONFIG_ESP_WIFI_NVS_ENABLED
+D:/SEMESTER7/EMBEDDED/esp/Lab_04/Lab4/sdkconfig:824 CONFIG_ESP32_WIFI_TASK_PINNED_TO_CORE_0 was replaced with CONFIG_ESP_WIFI_TASK_PINNED_TO_CORE_0
+D:/SEMESTER7/EMBEDDED/esp/Lab_04/Lab4/sdkconfig:825 CONFIG_ESP32_WIFI_TASK_PINNED_TO_CORE_1 was replaced with CONFIG_ESP_WIFI_TASK_PINNED_TO_CORE_1
+D:/SEMESTER7/EMBEDDED/esp/Lab_04/Lab4/sdkconfig:826 CONFIG_ESP32_WIFI_SOFTAP_BEACON_MAX_LEN was replaced with CONFIG_ESP_WIFI_SOFTAP_BEACON_MAX_LEN
+D:/SEMESTER7/EMBEDDED/esp/Lab_04/Lab4/sdkconfig:827 CONFIG_ESP32_WIFI_MGMT_SBUF_NUM was replaced with CONFIG_ESP_WIFI_MGMT_SBUF_NUM
+D:/SEMESTER7/EMBEDDED/esp/Lab_04/Lab4/sdkconfig:828 CONFIG_ESP32_WIFI_IRAM_OPT was replaced with CONFIG_ESP_WIFI_IRAM_OPT
+D:/SEMESTER7/EMBEDDED/esp/Lab_04/Lab4/sdkconfig:829 CONFIG_ESP32_WIFI_RX_IRAM_OPT was replaced with CONFIG_ESP_WIFI_RX_IRAM_OPT
+D:/SEMESTER7/EMBEDDED/esp/Lab_04/Lab4/sdkconfig:830 CONFIG_ESP32_WIFI_ENABLE_WPA3_SAE was replaced with CONFIG_ESP_WIFI_ENABLE_WPA3_SAE
+D:/SEMESTER7/EMBEDDED/esp/Lab_04/Lab4/sdkconfig:831 CONFIG_ESP32_WIFI_ENABLE_WPA3_OWE_STA was replaced with CONFIG_ESP_WIFI_ENABLE_WPA3_OWE_STA
+D:/SEMESTER7/EMBEDDED/esp/Lab_04/Lab4/sdkconfig:1489 CONFIG_WPA_MBEDTLS_CRYPTO was replaced with CONFIG_ESP_WIFI_MBEDTLS_CRYPTO
+D:/SEMESTER7/EMBEDDED/esp/Lab_04/Lab4/sdkconfig:1490 CONFIG_WPA_MBEDTLS_TLS_CLIENT was replaced with CONFIG_ESP_WIFI_MBEDTLS_TLS_CLIENT
+D:/SEMESTER7/EMBEDDED/esp/Lab_04/Lab4/sdkconfig:1491 CONFIG_WPA_WAPI_PSK was replaced with CONFIG_ESP_WIFI_WAPI_PSK
+D:/SEMESTER7/EMBEDDED/esp/Lab_04/Lab4/sdkconfig:1492 CONFIG_WPA_SUITE_B_192 was replaced with CONFIG_ESP_WIFI_SUITE_B_192
+D:/SEMESTER7/EMBEDDED/esp/Lab_04/Lab4/sdkconfig:1493 CONFIG_WPA_DEBUG_PRINT was replaced with CONFIG_ESP_WIFI_DEBUG_PRINT
+D:/SEMESTER7/EMBEDDED/esp/Lab_04/Lab4/sdkconfig:1494 CONFIG_WPA_TESTING_OPTIONS was replaced with CONFIG_ESP_WIFI_TESTING_OPTIONS
+D:/SEMESTER7/EMBEDDED/esp/Lab_04/Lab4/sdkconfig:1495 CONFIG_WPA_WPS_STRICT was replaced with CONFIG_ESP_WIFI_WPS_STRICT
+D:/SEMESTER7/EMBEDDED/esp/Lab_04/Lab4/sdkconfig:1496 CONFIG_WPA_11KV_SUPPORT was replaced with CONFIG_ESP_WIFI_11KV_SUPPORT
+D:/SEMESTER7/EMBEDDED/esp/Lab_04/Lab4/sdkconfig:1497 CONFIG_WPA_MBO_SUPPORT was replaced with CONFIG_ESP_WIFI_MBO_SUPPORT
+D:/SEMESTER7/EMBEDDED/esp/Lab_04/Lab4/sdkconfig:1498 CONFIG_WPA_DPP_SUPPORT was replaced with CONFIG_ESP_WIFI_DPP_SUPPORT
+D:/SEMESTER7/EMBEDDED/esp/Lab_04/Lab4/sdkconfig:1499 CONFIG_WPA_11R_SUPPORT was replaced with CONFIG_ESP_WIFI_11R_SUPPORT
+D:/SEMESTER7/EMBEDDED/esp/Lab_04/Lab4/sdkconfig:1500 CONFIG_WPA_WPS_SOFTAP_REGISTRAR was replaced with CONFIG_ESP_WIFI_WPS_SOFTAP_REGISTRAR
+-- Looking for sys/types.h
+-- Looking for sys/types.h - found
+-- Looking for stdint.h
+-- Looking for stdint.h - found
+-- Looking for stddef.h
+-- Looking for stddef.h - found
+-- Check size of time_t
+-- Check size of time_t - done
+-- Found Python3: D:/SEMESTER7/EMBEDDED/ESP/ESP-IDF/Espressif/python_env/idf5.1_py3.11_env/Scripts/python.exe (found version "3.11.2") found components: Interpreter 
+-- Performing Test C_COMPILER_SUPPORTS_WFORMAT_SIGNEDNESS
+-- Performing Test C_COMPILER_SUPPORTS_WFORMAT_SIGNEDNESS - Success
+-- App "app-template" version: 1
+-- Adding linker script D:/SEMESTER7/EMBEDDED/esp/Lab_04/Lab4/build/esp-idf/esp_system/ld/memory.ld
+-- Adding linker script D:/SEMESTER7/EMBEDDED/esp/esp-idf/Espressif/frameworks/esp-idf-v5.1.1/components/esp_system/ld/esp32/sections.ld.in
+-- Adding linker script D:/SEMESTER7/EMBEDDED/esp/esp-idf/Espressif/frameworks/esp-idf-v5.1.1/components/esp_rom/esp32/ld/esp32.rom.ld
+-- Adding linker script D:/SEMESTER7/EMBEDDED/esp/esp-idf/Espressif/frameworks/esp-idf-v5.1.1/components/esp_rom/esp32/ld/esp32.rom.api.ld
+-- Adding linker script D:/SEMESTER7/EMBEDDED/esp/esp-idf/Espressif/frameworks/esp-idf-v5.1.1/components/esp_rom/esp32/ld/esp32.rom.libgcc.ld
+-- Adding linker script D:/SEMESTER7/EMBEDDED/esp/esp-idf/Espressif/frameworks/esp-idf-v5.1.1/components/esp_rom/esp32/ld/esp32.rom.newlib-data.ld
+-- Adding linker script D:/SEMESTER7/EMBEDDED/esp/esp-idf/Espressif/frameworks/esp-idf-v5.1.1/components/esp_rom/esp32/ld/esp32.rom.syscalls.ld
+-- Adding linker script D:/SEMESTER7/EMBEDDED/esp/esp-idf/Espressif/frameworks/esp-idf-v5.1.1/components/esp_rom/esp32/ld/esp32.rom.newlib-funcs.ld
+-- Adding linker script D:/SEMESTER7/EMBEDDED/esp/esp-idf/Espressif/frameworks/esp-idf-v5.1.1/components/soc/esp32/ld/esp32.peripherals.ld
+-- Components: app_trace app_update bootloader bootloader_support bt cmock console cxx driver efuse esp-tls esp_adc esp_app_format esp_coex esp_common esp_eth esp_event esp_gdbstub esp_hid esp_http_client esp_http_server esp_https_ota esp_https_server esp_hw_support esp_lcd esp_local_ctrl esp_mm esp_netif esp_netif_stack esp_partition esp_phy esp_pm esp_psram esp_ringbuf esp_rom esp_system esp_timer esp_wifi espcoredump esptool_py fatfs freertos hal heap http_parser idf_test ieee802154 json log lwip main mbedtls mqtt newlib nvs_flash openthread partition_table perfmon protobuf-c protocomm pthread sdmmc soc spi_flash spiffs tcp_transport ulp unity usb vfs wear_levelling wifi_provisioning wpa_supplicant xtensa
+-- Component paths: D:/SEMESTER7/EMBEDDED/esp/esp-idf/Espressif/frameworks/esp-idf-v5.1.1/components/app_trace D:/SEMESTER7/EMBEDDED/esp/esp-idf/Espressif/frameworks/esp-idf-v5.1.1/components/app_update D:/SEMESTER7/EMBEDDED/esp/esp-idf/Espressif/frameworks/esp-idf-v5.1.1/components/bootloader D:/SEMESTER7/EMBEDDED/esp/esp-idf/Espressif/frameworks/esp-idf-v5.1.1/components/bootloader_support D:/SEMESTER7/EMBEDDED/esp/esp-idf/Espressif/frameworks/esp-idf-v5.1.1/components/bt D:/SEMESTER7/EMBEDDED/esp/esp-idf/Espressif/frameworks/esp-idf-v5.1.1/components/cmock D:/SEMESTER7/EMBEDDED/esp/esp-idf/Espressif/frameworks/esp-idf-v5.1.1/components/console D:/SEMESTER7/EMBEDDED/esp/esp-idf/Espressif/frameworks/esp-idf-v5.1.1/components/cxx D:/SEMESTER7/EMBEDDED/esp/esp-idf/Espressif/frameworks/esp-idf-v5.1.1/components/driver D:/SEMESTER7/EMBEDDED/esp/esp-idf/Espressif/frameworks/esp-idf-v5.1.1/components/efuse D:/SEMESTER7/EMBEDDED/esp/esp-idf/Espressif/frameworks/esp-idf-v5.1.1/components/esp-tls D:/SEMESTER7/EMBEDDED/esp/esp-idf/Espressif/frameworks/esp-idf-v5.1.1/components/esp_adc D:/SEMESTER7/EMBEDDED/esp/esp-idf/Espressif/frameworks/esp-idf-v5.1.1/components/esp_app_format D:/SEMESTER7/EMBEDDED/esp/esp-idf/Espressif/frameworks/esp-idf-v5.1.1/components/esp_coex D:/SEMESTER7/EMBEDDED/esp/esp-idf/Espressif/frameworks/esp-idf-v5.1.1/components/esp_common D:/SEMESTER7/EMBEDDED/esp/esp-idf/Espressif/frameworks/esp-idf-v5.1.1/components/esp_eth D:/SEMESTER7/EMBEDDED/esp/esp-idf/Espressif/frameworks/esp-idf-v5.1.1/components/esp_event D:/SEMESTER7/EMBEDDED/esp/esp-idf/Espressif/frameworks/esp-idf-v5.1.1/components/esp_gdbstub D:/SEMESTER7/EMBEDDED/esp/esp-idf/Espressif/frameworks/esp-idf-v5.1.1/components/esp_hid D:/SEMESTER7/EMBEDDED/esp/esp-idf/Espressif/frameworks/esp-idf-v5.1.1/components/esp_http_client D:/SEMESTER7/EMBEDDED/esp/esp-idf/Espressif/frameworks/esp-idf-v5.1.1/components/esp_http_server D:/SEMESTER7/EMBEDDED/esp/esp-idf/Espressif/frameworks/esp-idf-v5.1.1/components/esp_https_ota D:/SEMESTER7/EMBEDDED/esp/esp-idf/Espressif/frameworks/esp-idf-v5.1.1/components/esp_https_server D:/SEMESTER7/EMBEDDED/esp/esp-idf/Espressif/frameworks/esp-idf-v5.1.1/components/esp_hw_support D:/SEMESTER7/EMBEDDED/esp/esp-idf/Espressif/frameworks/esp-idf-v5.1.1/components/esp_lcd D:/SEMESTER7/EMBEDDED/esp/esp-idf/Espressif/frameworks/esp-idf-v5.1.1/components/esp_local_ctrl D:/SEMESTER7/EMBEDDED/esp/esp-idf/Espressif/frameworks/esp-idf-v5.1.1/components/esp_mm D:/SEMESTER7/EMBEDDED/esp/esp-idf/Espressif/frameworks/esp-idf-v5.1.1/components/esp_netif D:/SEMESTER7/EMBEDDED/esp/esp-idf/Espressif/frameworks/esp-idf-v5.1.1/components/esp_netif_stack D:/SEMESTER7/EMBEDDED/esp/esp-idf/Espressif/frameworks/esp-idf-v5.1.1/components/esp_partition D:/SEMESTER7/EMBEDDED/esp/esp-idf/Espressif/frameworks/esp-idf-v5.1.1/components/esp_phy D:/SEMESTER7/EMBEDDED/esp/esp-idf/Espressif/frameworks/esp-idf-v5.1.1/components/esp_pm D:/SEMESTER7/EMBEDDED/esp/esp-idf/Espressif/frameworks/esp-idf-v5.1.1/components/esp_psram D:/SEMESTER7/EMBEDDED/esp/esp-idf/Espressif/frameworks/esp-idf-v5.1.1/components/esp_ringbuf D:/SEMESTER7/EMBEDDED/esp/esp-idf/Espressif/frameworks/esp-idf-v5.1.1/components/esp_rom D:/SEMESTER7/EMBEDDED/esp/esp-idf/Espressif/frameworks/esp-idf-v5.1.1/components/esp_system D:/SEMESTER7/EMBEDDED/esp/esp-idf/Espressif/frameworks/esp-idf-v5.1.1/components/esp_timer D:/SEMESTER7/EMBEDDED/esp/esp-idf/Espressif/frameworks/esp-idf-v5.1.1/components/esp_wifi D:/SEMESTER7/EMBEDDED/esp/esp-idf/Espressif/frameworks/esp-idf-v5.1.1/components/espcoredump D:/SEMESTER7/EMBEDDED/esp/esp-idf/Espressif/frameworks/esp-idf-v5.1.1/components/esptool_py D:/SEMESTER7/EMBEDDED/esp/esp-idf/Espressif/frameworks/esp-idf-v5.1.1/components/fatfs D:/SEMESTER7/EMBEDDED/esp/esp-idf/Espressif/frameworks/esp-idf-v5.1.1/components/freertos D:/SEMESTER7/EMBEDDED/esp/esp-idf/Espressif/frameworks/esp-idf-v5.1.1/components/hal D:/SEMESTER7/EMBEDDED/esp/esp-idf/Espressif/frameworks/esp-idf-v5.1.1/components/heap D:/SEMESTER7/EMBEDDED/esp/esp-idf/Espressif/frameworks/esp-idf-v5.1.1/components/http_parser D:/SEMESTER7/EMBEDDED/esp/esp-idf/Espressif/frameworks/esp-idf-v5.1.1/components/idf_test D:/SEMESTER7/EMBEDDED/esp/esp-idf/Espressif/frameworks/esp-idf-v5.1.1/components/ieee802154 D:/SEMESTER7/EMBEDDED/esp/esp-idf/Espressif/frameworks/esp-idf-v5.1.1/components/json D:/SEMESTER7/EMBEDDED/esp/esp-idf/Espressif/frameworks/esp-idf-v5.1.1/components/log D:/SEMESTER7/EMBEDDED/esp/esp-idf/Espressif/frameworks/esp-idf-v5.1.1/components/lwip D:/SEMESTER7/EMBEDDED/esp/Lab_04/Lab4/main D:/SEMESTER7/EMBEDDED/esp/esp-idf/Espressif/frameworks/esp-idf-v5.1.1/components/mbedtls D:/SEMESTER7/EMBEDDED/esp/esp-idf/Espressif/frameworks/esp-idf-v5.1.1/components/mqtt D:/SEMESTER7/EMBEDDED/esp/esp-idf/Espressif/frameworks/esp-idf-v5.1.1/components/newlib D:/SEMESTER7/EMBEDDED/esp/esp-idf/Espressif/frameworks/esp-idf-v5.1.1/components/nvs_flash D:/SEMESTER7/EMBEDDED/esp/esp-idf/Espressif/frameworks/esp-idf-v5.1.1/components/openthread D:/SEMESTER7/EMBEDDED/esp/esp-idf/Espressif/frameworks/esp-idf-v5.1.1/components/partition_table D:/SEMESTER7/EMBEDDED/esp/esp-idf/Espressif/frameworks/esp-idf-v5.1.1/components/perfmon D:/SEMESTER7/EMBEDDED/esp/esp-idf/Espressif/frameworks/esp-idf-v5.1.1/components/protobuf-c D:/SEMESTER7/EMBEDDED/esp/esp-idf/Espressif/frameworks/esp-idf-v5.1.1/components/protocomm D:/SEMESTER7/EMBEDDED/esp/esp-idf/Espressif/frameworks/esp-idf-v5.1.1/components/pthread D:/SEMESTER7/EMBEDDED/esp/esp-idf/Espressif/frameworks/esp-idf-v5.1.1/components/sdmmc D:/SEMESTER7/EMBEDDED/esp/esp-idf/Espressif/frameworks/esp-idf-v5.1.1/components/soc D:/SEMESTER7/EMBEDDED/esp/esp-idf/Espressif/frameworks/esp-idf-v5.1.1/components/spi_flash D:/SEMESTER7/EMBEDDED/esp/esp-idf/Espressif/frameworks/esp-idf-v5.1.1/components/spiffs D:/SEMESTER7/EMBEDDED/esp/esp-idf/Espressif/frameworks/esp-idf-v5.1.1/components/tcp_transport D:/SEMESTER7/EMBEDDED/esp/esp-idf/Espressif/frameworks/esp-idf-v5.1.1/components/ulp D:/SEMESTER7/EMBEDDED/esp/esp-idf/Espressif/frameworks/esp-idf-v5.1.1/components/unity D:/SEMESTER7/EMBEDDED/esp/esp-idf/Espressif/frameworks/esp-idf-v5.1.1/components/usb D:/SEMESTER7/EMBEDDED/esp/esp-idf/Espressif/frameworks/esp-idf-v5.1.1/components/vfs D:/SEMESTER7/EMBEDDED/esp/esp-idf/Espressif/frameworks/esp-idf-v5.1.1/components/wear_levelling D:/SEMESTER7/EMBEDDED/esp/esp-idf/Espressif/frameworks/esp-idf-v5.1.1/components/wifi_provisioning D:/SEMESTER7/EMBEDDED/esp/esp-idf/Espressif/frameworks/esp-idf-v5.1.1/components/wpa_supplicant D:/SEMESTER7/EMBEDDED/esp/esp-idf/Espressif/frameworks/esp-idf-v5.1.1/components/xtensa
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/SEMESTER7/EMBEDDED/esp/Lab_04/Lab4/build
